@@ -47,6 +47,7 @@
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(23, 258);
+            this.textBox2.MaxLength = 0;
             this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
             this.textBox2.ScrollBars = System.Windows.Forms.ScrollBars.Both;
@@ -56,6 +57,7 @@
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(23, 23);
+            this.textBox1.MaxLength = 0;
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Both;
